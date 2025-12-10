@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏪 The House of Rare
+# 🏪 The WEARON
 
 ### Premium E-Commerce Platform with AI-Powered Recommendations
 
@@ -10,7 +10,7 @@
 [![Redis](https://img.shields.io/badge/Redis-Labs-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 [![Firebase](https://img.shields.io/badge/Firebase-Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
-**🌐 Live Demo:** [rofero.vercel.app](https://rofero.vercel.app/)
+**🌐 Live Demo:** [rofero.vercel.app](https://clothingbrand-nu.vercel.app/)
 
 *A modern, scalable e-commerce solution built with cutting-edge technologies for optimal performance and user experience.*
 
@@ -1198,7 +1198,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 **Mohan Siva**
 - GitHub: [@mohansiva58](https://github.com/mohansiva58)
 - Repository: [clothingbrand](https://github.com/mohansiva58/clothingbrand)
-- Live Demo: [rofero.vercel.app](https://rofero.vercel.app/)
+- Live Demo: [rofero.vercel.app](https://clothingbrand-nu.vercel.app/)
 
 ---
 
@@ -1808,6 +1808,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by Mohan Siva**
 
-[Live Demo](https://rofero.vercel.app/) • [Report Bug](https://github.com/mohansiva58/clothingbrand/issues) • [Request Feature](https://github.com/mohansiva58/clothingbrand/issues)
+[Live Demo](https://clothingbrand-nu.vercel.app/) • [Report Bug](https://github.com/mohansiva58/clothingbrand/issues) • [Request Feature](https://github.com/mohansiva58/clothingbrand/issues)
 
 </div>
